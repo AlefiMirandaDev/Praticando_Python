@@ -1,0 +1,20 @@
+# X.isidentifier() => O método isidentifier() retorna True se a string for um identificador válido em Python. Se não, retorna False.
+
+# X.isprintable() => Os métodos isprintable() retornam True se todos os caracteres da string forem imprimíveis ou a string estiver vazia. Se não, retorna False
+
+# X.isdecimal() => O método isdecimal() retornará True se todos os caracteres em uma string forem caracteres decimais. Se não, retorna False.
+
+# X.isnumeric() => O método isnumeric() retornará True se todos os caracteres em uma string forem caracteres numéricos. Se não, retorna False.
+
+# X.isalnum() => retornará True se todos os caracteres da string forem alfanuméricos (alfabetos ou números). Se não, retorna False.
+
+# X.isalpha() => O método isalpha() retornará True se todos os caracteres da string forem alfabetos. Se não, retorna False.
+
+# X.isascii() =>
+# X.isdigit() =>
+# X.islower() =>
+# X.isalnum() =>
+# X.isspace() =>
+# X.istitle() =>
+# X.isupper() =>
+# type(X) =>
